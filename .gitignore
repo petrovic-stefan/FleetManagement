@@ -1,0 +1,15 @@
+# VS / build artefakti
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# baze / veliki fajlovi
+*.mdf
+*.ldf
+*.db
+
+# tajne i lokalna podešavanja
+src/Api/appsettings.json
+src/Api/appsettings.*.json
