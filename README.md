@@ -4,15 +4,14 @@ FleetManagement je aplikacija za upravljanje voznim parkom.
 Sastoji se od **API-ja (ASP.NET Core)** i **desktop aplikacije (WinForms)**.
 
 
-napiši kao **listu sa uvučenim tačkama**:
 
-```markdown
 ## 📦 Struktura projekta
 
 - **Api/** – ASP.NET Core Web API
 - **Desktop/** – WinForms desktop aplikacija
 - **Domain/** – Entiteti (Vehicle, Driver, Maintenance, Expense, Assignment)
 - **Infrastructure/** – EF Core DbContext i Seed podaci
+
 
 
 ## 🚀 Funkcionalnosti
